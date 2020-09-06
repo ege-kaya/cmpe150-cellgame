@@ -1,4 +1,4 @@
-package CellGame;
+package cellgame;
 
 import java.io.File;
 import java.io.FileNotFoundException;
